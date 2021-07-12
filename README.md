@@ -20,7 +20,8 @@ Download all this before getting started
 ## Shaders
 You don't need Optifine for shaders in this modpack, you won't get a shaders options screen so choose your shaders wisely. 
 
-### Recommended Shaders: [BSL 8 Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders/files/3229524)
+### Recommended Shaders: 
+- [BSL 8 Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders/files/3229524)
 
 ## Guide
 - Install [GD Launcher](https://gdevs.io) AND [Java 16](https://adoptopenjdk.net/?variant=openjdk16&jvmVariant=hotspot)
