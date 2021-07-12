@@ -1,13 +1,9 @@
 # cmcsmp modpack guide
 **if you're playing on a POS laptop this should stop you from breaking it over your knee**
  A guide to install GD Launcher and Fabulously Optimized modpack for CMC-SMP for a better framerate in game
-## Why?
->Minecraft Java Edition runs like ass on anything less than a "nasa" pc, this modpack helped me play 1.16 on a computer from 2007 back before I got a ballin' PC, now I use it to play with shaders at a high framerate and without ALC crashes etc.
+
+>Minecraft Java Edition runs like dog shit on anything less than a "nasa" pc, this modpack helped me play 1.16 on a computer from 2007 back before I got a ballin' PC, now I use it to play with shaders at a high framerate and without ALC crashes etc.
 (mowglixx, 2021)
-### Yeh but, why a guide? ffs it's only Minecraft...
-As of `1.17`, Minecraft now requires `Java 16`+ instead of `Java 8/11` (Minecraft 1.16 and below). most you scrubs think java is just Minecraft when really Java is the language Minecraft is written in, You need the latest version of Java to run the Latest versions of Minecraft **BUT** because all the Mod Launchers like `GD Launcher`, `Curseforge Twitch`(or whatever it is now), `TLauncher` etc. all use Java 8 for Minecraft 1.16 and below here is where the problem is...
-### why?
-IDK, something something features... [Google it](https://www.google.com/search?q=why+am+i+asking+so+many+questions+about+minecraft).
 ## What you'll need
 Download all this before getting started
 
@@ -43,3 +39,9 @@ You don't need Optifine for shaders in this modpack, you won't get a shaders opt
 - Navigate to `C:\Program Files\AdoptOpenJDK\jdk-16.[version]` or wherever you installed it.
 - **Select `java.exe` or just `java` (shown in Blue) in the `bin` folder** 
     ![Java 16 in its windows installation folder](img/javaexe.png)
+
+## FAQ
+### Yeh but, why a guide? ffs it's only Minecraft...
+As of `1.17`, Minecraft now requires `Java 16`+ instead of `Java 8/11` (Minecraft 1.16 and below). most you scrubs think java is just Minecraft when really Java is the language Minecraft is written in, You need the latest version of Java to run the Latest versions of Minecraft **BUT** because all the Mod Launchers like `GD Launcher`, `Curseforge Twitch`(or whatever it is now), `TLauncher` etc. all use Java 8 for Minecraft 1.16 and below here is where the problem is...
+### why?
+IDK, something something features... [Google it](https://www.google.com/search?q=why+am+i+asking+so+many+questions+about+minecraft).
